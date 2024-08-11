@@ -3,7 +3,7 @@
 <img src="teste" width="70%" />
 <br><br>
 <pre>
-    💼 abc
+    💼 EM DESENVOLVIMENTO
     💻 edf
     📖 ghi
     🎮 Music • Games • Anime • Code • Hacking
