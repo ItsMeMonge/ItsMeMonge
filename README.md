@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">Hello, I'm Monge!</h1>
+<h1 align="center">Hii, I'm Monge! :3</h1>
 <h3 align="center">Aspiring Developer | Cybersecurity Enthusiast | Anime Fan</h3>
 
 <p align="center">
@@ -96,4 +96,9 @@
   <a href="https://github.com/ItsMeMonge">
     <img src="https://i.pinimg.com/originals/39/81/f8/3981f822160e664f7dfb8b441454bbe6.gif" alt="Monge's GitHub Banner">
   </a>
+</p>
+<p align="center">
+  Thank you for visiting my profile!
+  <br>
+  Bye! Bye! <3
 </p>
