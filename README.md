@@ -80,7 +80,7 @@
 
 ### 🌐 More from Me
 
-- Check out my [**portfolio website**](https://github.com/ItsMeMonge) for projects, or connect on [**LinkedIn**](https://www.linkedin.com/in/asd) TEMPORARILY DISABLED
+- Check out my [**portfolio website**](https://github.com/ItsMeMonge) for projects, or connect on [**LinkedIn**](https://www.linkedin.com/in/asd) (TEMPORARILY DISABLED)
 .
 - Follow my [**Twitter**](https://twitter.com/OnlyMonge) for more updates and thoughts on tech and security!
 
