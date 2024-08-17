@@ -10,18 +10,12 @@
 <h3 align="center">Aspiring Developer | Cybersecurity Enthusiast | Anime Fan</h3>
 
 <p align="center">
-  <em>"In coding, just like in hacking, the real enemy is always hidden in the shadows."</em>
+  <em>"In the world of hacking, just like in love, true victory isn’t about being the strongest, but being the most cunning"</em>
   <br>
-  <em>— Inspired by my favorite anime worlds and the thrill of cybersecurity</em>
+  <em>— Inspired by my favorite Anime with Hacking</em>
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/ItsMeMonge">
-    <img src="https://i.pinimg.com/originals/ed/d5/16/edd51626073cab100f5bef8cf86cbb01.gif" alt="Monge's GitHub Banner">
-  </a>
-</p>
 
 ### 🌟 About Me
 
@@ -93,5 +87,13 @@
 <p align="center">
   <a href="https://github.com/ItsMeMonge">
     <img src="https://github-profile-trophy.vercel.app/?username=ItsMeMonge&theme=onedark&no-frame=true&column=3" alt="Monge's GitHub Trophies">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ItsMeMonge">
+    <img src="https://i.pinimg.com/originals/39/81/f8/3981f822160e664f7dfb8b441454bbe6.gif" alt="Monge's GitHub Banner">
   </a>
 </p>
