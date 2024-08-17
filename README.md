@@ -23,27 +23,3 @@
   <strong><a href="https://discord.com/users/903770247562166273">Discord</a></strong>
 </p>
 
-<!-- Background Styling (Anime Inspired) -->
-<style>
-  body {
-    background-image: url('####'); /* URL da imagem de fundo anime */
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    color: #333;
-    font-family: 'Arial', sans-serif;
-  }
-
-  h1, h3 {
-    color: #4A90E2;
-  }
-
-  a {
-    color: #4A90E2;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
