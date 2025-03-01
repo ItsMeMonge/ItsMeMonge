@@ -2,14 +2,17 @@
 
 <p align="center">
   <a href="https://themonge.com">
-    <img src="https://i.pinimg.com/originals/ed/d5/16/edd51626073cab100f5bef8cf86cbb01.gif" alt="Monge's Banner">
+    <img src="https://i.pinimg.com/originals/ed/d5/16/edd51626073cab100f5bef8cf86cbb01.gif" alt="🎩">
   </a>
 </p>
 
 # Hi, I'm Monge 👋
 
-I'm a **Cybersecurity Engineer** and **OSINT Specialist** based in Brazil, dedicated to protecting digital assets and uncovering valuable intelligence.
+I'm a **Cybersecurity Engineer** and **OSINT Specialist** based in Brazil, dedicated to protecting digital assets and uncovering valuable intelligence. 🎩🦊
+
+---
 
 **Contact:** [contact@themonge.com](mailto:contact@themonge.com)
+**Website Contact:** [The Monge's - Contact](https://themonge.com/contact)
 
 ---
