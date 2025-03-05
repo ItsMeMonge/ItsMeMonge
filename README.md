@@ -13,6 +13,7 @@ I'm a **Cybersecurity Engineer** and **OSINT Specialist** based in Brazil, dedic
 ---
 
 **Contact:** [contact@themonge.com](mailto:contact@themonge.com)
+
 **Website Contact:** [The Monge's - Contact](https://themonge.com/contact)
 
 ---
