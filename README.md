@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
+<p align="center">
+  <a href="https://monge.ai">
+    <img src="https://i.pinimg.com/originals/ed/d5/16/edd51626073cab100f5bef8cf86cbb01.gif" alt=":)">
+  </a>
+</p>
 
-<!--
-**ItsMeMonge/ItsMeMonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Monge
 
-Here are some ideas to get you started:
+Ethical Hacker based in Brazil — I break things for a living, legally. 🎩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Contact:** [monge@monge.ai](mailto:monge@monge.ai)
