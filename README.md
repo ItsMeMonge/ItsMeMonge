@@ -7,7 +7,7 @@
 
 # Hey, I'm Monge
 
-Ethical Hacker based in Brazil — I break things for a living, legally. 🎩
+Ethical Hacker based in The Internet — I break things for a living, legally. 🎩
 
 ---
 
